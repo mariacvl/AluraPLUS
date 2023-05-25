@@ -1,3 +1,5 @@
+
+
 :root {
 
 --branco-principal: #FFFFFF;    
@@ -40,9 +42,11 @@ font-weight: 400;
     grid-template-columns: 50% 50%;
 
    }
+/*  FIM AULA 03 */
 
 
 
+/*   INICIO AULA 04  */
 .container__botao {
     background-color: var(--botao-azul);
     border-radius: 5px;
@@ -55,6 +59,7 @@ font-weight: 400;
 
 }
 
+/* FIM DA AULA 4 */
 
 .botao_secundario {
     background-color: transparent;
@@ -73,7 +78,7 @@ container__titulo{
 }
 
 
-
+/* FIM DA AULA 4 */
 .container__imagem{
     margin: lem 0 2em 0;
 }
